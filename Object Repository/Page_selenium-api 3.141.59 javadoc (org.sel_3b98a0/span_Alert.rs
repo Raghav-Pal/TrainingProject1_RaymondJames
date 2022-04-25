@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Alert</name>
+   <tag></tag>
+   <elementGuidId>ec5b9a54-ccdd-4d1e-8d48-afc7e93f3b8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.interfaceName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Interfaces'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc15922e-59af-426e-871a-e676c83c7bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>interfaceName</value>
+      <webElementGuid>4075c311-b7b0-4cfb-bcb5-c552c4c9cf8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alert</value>
+      <webElementGuid>3db2dfe7-44c8-4bd7-85d5-527d6552c439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;indexContainer&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;interfaceName&quot;]</value>
+      <webElementGuid>b40dfd2d-1b87-4f99-b736-a26a3dd582d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_selenium-api 3.141.59 javadoc (org.sel_3b98a0/frame_html1frameset1frameset1frame2_packageFrame</value>
+      <webElementGuid>e317840b-d04c-4ed1-a3ca-3f40a2241728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interfaces'])[1]/following::span[1]</value>
+      <webElementGuid>9de615d6-a936-47c8-b54e-05fd9bdad624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium'])[2]/following::span[1]</value>
+      <webElementGuid>485ee0d6-d733-4a1c-b6e2-108b3c6347e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capabilities'])[1]/preceding::span[1]</value>
+      <webElementGuid>02c7b5fe-3a38-43a8-9f0b-7098e637e0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ContextAware'])[1]/preceding::span[2]</value>
+      <webElementGuid>7ef2a321-d761-423c-865a-d7c7b6b4bda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alert']/parent::*</value>
+      <webElementGuid>cac5d953-b870-4597-b660-8daa576d4ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>5d6bc367-0753-471c-8be8-22e914752844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Alert' or . = 'Alert')]</value>
+      <webElementGuid>b2be4dd5-7dd4-439f-933f-49a381712db3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultipleDataSourcesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56a1e276-c79a-420d-b218-a9594c3294b8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>97c38243-11f9-4ea6-92f6-4c49c76ea144</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data1</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6c3ab064-dba9-43df-820d-97cc6400fa17</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data2</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>97c38243-11f9-4ea6-92f6-4c49c76ea144</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>e5de89ae-7476-48f3-8f55-3111cc7fb1b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3ab064-dba9-43df-820d-97cc6400fa17</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>c263f55e-21fa-4141-b8b3-1136a004e9a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3ab064-dba9-43df-820d-97cc6400fa17</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>95793780-6022-463b-83a5-ae8c4e3f62f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5de89ae-7476-48f3-8f55-3111cc7fb1b4</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c263f55e-21fa-4141-b8b3-1136a004e9a0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95793780-6022-463b-83a5-ae8c4e3f62f4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

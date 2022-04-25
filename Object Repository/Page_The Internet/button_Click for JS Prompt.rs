@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click for JS Prompt</name>
+   <tag></tag>
+   <elementGuidId>1f75046f-9e7f-474e-8285-527ce0f6608e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='jsPrompt()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2902d940-5d21-4b05-947d-786807548779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>jsPrompt()</value>
+      <webElementGuid>e12a4dbd-62ea-4e79-ba78-97ae2e662eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click for JS Prompt</value>
+      <webElementGuid>efe4c340-b634-4c29-9e3a-cda07c9f6e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/ul[1]/li[3]/button[1]</value>
+      <webElementGuid>211d5c3a-5bef-481f-bb53-c1c5bd950c6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='jsPrompt()']</value>
+      <webElementGuid>bdea6dd6-851d-4345-9203-54847f299c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/ul/li[3]/button</value>
+      <webElementGuid>22562420-2ee0-4be1-b98f-3cc6f52a45c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Confirm'])[1]/following::button[1]</value>
+      <webElementGuid>03630b57-bc73-4358-b5c4-3336095a2570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Alert'])[1]/following::button[2]</value>
+      <webElementGuid>d613dfb6-3a0a-40d5-b20c-eef5dfb7e18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result:'])[1]/preceding::button[1]</value>
+      <webElementGuid>caacd6e5-8dee-479e-b32f-3e4f0c89a9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click for JS Prompt']/parent::*</value>
+      <webElementGuid>6e3d14d8-5bad-44f4-b554-294d5fb8ef22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button</value>
+      <webElementGuid>95ed2203-1674-4889-91ba-7824e52117c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Click for JS Prompt' or . = 'Click for JS Prompt')]</value>
+      <webElementGuid>061ac7a1-9854-4b34-91a2-30c7bb8cf05c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
