@@ -1,0 +1,9 @@
+{
+  "os": "OS X",
+  "remoteWebDriverType": "Selenium",
+  "os_version": "Catalina",
+  "browser": "Chrome",
+  "remoteWebDriverUrl": "https://raghavpal2:QqEJyE8fXqyzJwYR1vxc@hub-cloud.browserstack.com/wd/hub",
+  "browser_version": "latest",
+  "browserstack.selenium_version": "3.8.1"
+}

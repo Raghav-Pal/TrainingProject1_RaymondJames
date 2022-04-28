@@ -1,0 +1,8 @@
+{
+  "app": "bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c",
+  "remoteWebDriverUrl": "https://raghavpal2:QqEJyE8fXqyzJwYR1vxc@hub-cloud.browserstack.com/wd/hub",
+  "device": "Samsung Galaxy S20",
+  "remoteWebDriverType": "Appium",
+  "os_version": "10.0",
+  "remoteMobileDriver": "ANDROID_DRIVER"
+}

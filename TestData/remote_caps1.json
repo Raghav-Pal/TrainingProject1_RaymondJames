@@ -1,0 +1,11 @@
+{
+  "os": "Windows",
+  "build": "Build1",
+  "remoteWebDriverType": "Selenium",
+  "os_version": "10",
+  "browser": "Chrome",
+  "name": "MyTest1",
+  "project": "MyProject1",
+  "remoteWebDriverUrl": "https://raghavpal2:QqEJyE8fXqyzJwYR1vxc@hub-cloud.browserstack.com/wd/hub",
+  "browser_version": "latest"
+}

@@ -1,0 +1,8 @@
+{
+  "app": "bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c",
+  "remoteWebDriverUrl": "https://raghavpal2:QqEJyE8fXqyzJwYR1vxc@hub-cloud.browserstack.com/wd/hub",
+  "device": "Google Pixel 3",
+  "remoteWebDriverType": "Appium",
+  "os_version": "9.0",
+  "remoteMobileDriver": "ANDROID_DRIVER"
+}
