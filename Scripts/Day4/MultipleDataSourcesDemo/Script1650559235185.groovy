@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(url)
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), username)
+WebUI.setText(findTestObject('Object Repository/WEB/Page_CURA Healthcare Service/input_Username_username'), username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), password)
+WebUI.setEncryptedText(findTestObject('Object Repository/WEB/Page_CURA Healthcare Service/input_Password_password'), password)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Make Appointment'), 'Make Appointment')
+WebUI.verifyElementText(findTestObject('Object Repository/WEB/Page_CURA Healthcare Service/h2_Make Appointment'), 'Make Appointment')
 
 WebUI.closeBrowser()
 

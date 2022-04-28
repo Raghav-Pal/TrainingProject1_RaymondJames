@@ -21,19 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://applitools.com/helloworld2/')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/button_Click me'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Applitools/button_Click me'))
 
 CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Check_1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Applitools/a_diff1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/button_Click me'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Applitools/button_Click me'))
 
 CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Check_2')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Applitools/a_diff2'))
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/button_Click me'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Applitools/button_Click me'))
 
 CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Check_3')
 

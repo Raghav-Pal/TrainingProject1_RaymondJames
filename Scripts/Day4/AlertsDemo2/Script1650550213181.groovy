@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://the-internet.herokuapp.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_The Internet/a_JavaScript Alerts'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_The Internet/a_JavaScript Alerts'))
 
-WebUI.click(findTestObject('Object Repository/Page_The Internet/button_Click for JS Confirm'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_The Internet/button_Click for JS Confirm'))
 
 not_run: WebUI.waitForAlert(2)
 
